@@ -1,0 +1,11 @@
+D:\ProblemSolving\Solution1\Ages\bin\Debug\netcoreapp2.2\Ages.deps.json
+D:\ProblemSolving\Solution1\Ages\bin\Debug\netcoreapp2.2\Ages.runtimeconfig.json
+D:\ProblemSolving\Solution1\Ages\bin\Debug\netcoreapp2.2\Ages.runtimeconfig.dev.json
+D:\ProblemSolving\Solution1\Ages\bin\Debug\netcoreapp2.2\Ages.dll
+D:\ProblemSolving\Solution1\Ages\bin\Debug\netcoreapp2.2\Ages.pdb
+D:\ProblemSolving\Solution1\Ages\obj\Debug\netcoreapp2.2\Ages.csprojAssemblyReference.cache
+D:\ProblemSolving\Solution1\Ages\obj\Debug\netcoreapp2.2\Ages.csproj.CoreCompileInputs.cache
+D:\ProblemSolving\Solution1\Ages\obj\Debug\netcoreapp2.2\Ages.AssemblyInfoInputs.cache
+D:\ProblemSolving\Solution1\Ages\obj\Debug\netcoreapp2.2\Ages.AssemblyInfo.cs
+D:\ProblemSolving\Solution1\Ages\obj\Debug\netcoreapp2.2\Ages.dll
+D:\ProblemSolving\Solution1\Ages\obj\Debug\netcoreapp2.2\Ages.pdb
