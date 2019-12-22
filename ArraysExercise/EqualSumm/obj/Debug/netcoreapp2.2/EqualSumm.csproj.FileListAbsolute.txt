@@ -1,0 +1,10 @@
+D:\ProblemSolving\ArraysExercise\EqualSumm\bin\Debug\netcoreapp2.2\EqualSumm.deps.json
+D:\ProblemSolving\ArraysExercise\EqualSumm\bin\Debug\netcoreapp2.2\EqualSumm.runtimeconfig.json
+D:\ProblemSolving\ArraysExercise\EqualSumm\bin\Debug\netcoreapp2.2\EqualSumm.runtimeconfig.dev.json
+D:\ProblemSolving\ArraysExercise\EqualSumm\bin\Debug\netcoreapp2.2\EqualSumm.dll
+D:\ProblemSolving\ArraysExercise\EqualSumm\bin\Debug\netcoreapp2.2\EqualSumm.pdb
+D:\ProblemSolving\ArraysExercise\EqualSumm\obj\Debug\netcoreapp2.2\EqualSumm.csproj.CoreCompileInputs.cache
+D:\ProblemSolving\ArraysExercise\EqualSumm\obj\Debug\netcoreapp2.2\EqualSumm.AssemblyInfoInputs.cache
+D:\ProblemSolving\ArraysExercise\EqualSumm\obj\Debug\netcoreapp2.2\EqualSumm.AssemblyInfo.cs
+D:\ProblemSolving\ArraysExercise\EqualSumm\obj\Debug\netcoreapp2.2\EqualSumm.dll
+D:\ProblemSolving\ArraysExercise\EqualSumm\obj\Debug\netcoreapp2.2\EqualSumm.pdb

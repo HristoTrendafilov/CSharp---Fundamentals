@@ -1,0 +1,11 @@
+D:\ProblemSolving\ArraysExercise\TopIntegers\bin\Debug\netcoreapp2.2\TopIntegers.deps.json
+D:\ProblemSolving\ArraysExercise\TopIntegers\bin\Debug\netcoreapp2.2\TopIntegers.runtimeconfig.json
+D:\ProblemSolving\ArraysExercise\TopIntegers\bin\Debug\netcoreapp2.2\TopIntegers.runtimeconfig.dev.json
+D:\ProblemSolving\ArraysExercise\TopIntegers\bin\Debug\netcoreapp2.2\TopIntegers.dll
+D:\ProblemSolving\ArraysExercise\TopIntegers\bin\Debug\netcoreapp2.2\TopIntegers.pdb
+D:\ProblemSolving\ArraysExercise\TopIntegers\obj\Debug\netcoreapp2.2\TopIntegers.csproj.CoreCompileInputs.cache
+D:\ProblemSolving\ArraysExercise\TopIntegers\obj\Debug\netcoreapp2.2\TopIntegers.AssemblyInfoInputs.cache
+D:\ProblemSolving\ArraysExercise\TopIntegers\obj\Debug\netcoreapp2.2\TopIntegers.AssemblyInfo.cs
+D:\ProblemSolving\ArraysExercise\TopIntegers\obj\Debug\netcoreapp2.2\TopIntegers.dll
+D:\ProblemSolving\ArraysExercise\TopIntegers\obj\Debug\netcoreapp2.2\TopIntegers.pdb
+D:\ProblemSolving\ArraysExercise\TopIntegers\obj\Debug\netcoreapp2.2\TopIntegers.csprojAssemblyReference.cache
