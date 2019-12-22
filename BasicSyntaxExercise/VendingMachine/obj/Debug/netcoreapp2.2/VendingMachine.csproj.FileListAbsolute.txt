@@ -1,0 +1,11 @@
+D:\ProblemSolving\Solution1\VendingMachine\bin\Debug\netcoreapp2.2\VendingMachine.deps.json
+D:\ProblemSolving\Solution1\VendingMachine\bin\Debug\netcoreapp2.2\VendingMachine.runtimeconfig.json
+D:\ProblemSolving\Solution1\VendingMachine\bin\Debug\netcoreapp2.2\VendingMachine.runtimeconfig.dev.json
+D:\ProblemSolving\Solution1\VendingMachine\bin\Debug\netcoreapp2.2\VendingMachine.dll
+D:\ProblemSolving\Solution1\VendingMachine\bin\Debug\netcoreapp2.2\VendingMachine.pdb
+D:\ProblemSolving\Solution1\VendingMachine\obj\Debug\netcoreapp2.2\VendingMachine.csproj.CoreCompileInputs.cache
+D:\ProblemSolving\Solution1\VendingMachine\obj\Debug\netcoreapp2.2\VendingMachine.AssemblyInfoInputs.cache
+D:\ProblemSolving\Solution1\VendingMachine\obj\Debug\netcoreapp2.2\VendingMachine.AssemblyInfo.cs
+D:\ProblemSolving\Solution1\VendingMachine\obj\Debug\netcoreapp2.2\VendingMachine.dll
+D:\ProblemSolving\Solution1\VendingMachine\obj\Debug\netcoreapp2.2\VendingMachine.pdb
+D:\ProblemSolving\Solution1\VendingMachine\obj\Debug\netcoreapp2.2\VendingMachine.csprojAssemblyReference.cache
