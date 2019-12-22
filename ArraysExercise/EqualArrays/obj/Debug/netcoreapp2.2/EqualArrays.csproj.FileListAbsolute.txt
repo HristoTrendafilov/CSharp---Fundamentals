@@ -1,0 +1,10 @@
+D:\ProblemSolving\ArraysLab\EqualArrays\bin\Debug\netcoreapp2.2\EqualArrays.deps.json
+D:\ProblemSolving\ArraysLab\EqualArrays\bin\Debug\netcoreapp2.2\EqualArrays.runtimeconfig.json
+D:\ProblemSolving\ArraysLab\EqualArrays\bin\Debug\netcoreapp2.2\EqualArrays.runtimeconfig.dev.json
+D:\ProblemSolving\ArraysLab\EqualArrays\bin\Debug\netcoreapp2.2\EqualArrays.dll
+D:\ProblemSolving\ArraysLab\EqualArrays\bin\Debug\netcoreapp2.2\EqualArrays.pdb
+D:\ProblemSolving\ArraysLab\EqualArrays\obj\Debug\netcoreapp2.2\EqualArrays.csproj.CoreCompileInputs.cache
+D:\ProblemSolving\ArraysLab\EqualArrays\obj\Debug\netcoreapp2.2\EqualArrays.AssemblyInfoInputs.cache
+D:\ProblemSolving\ArraysLab\EqualArrays\obj\Debug\netcoreapp2.2\EqualArrays.AssemblyInfo.cs
+D:\ProblemSolving\ArraysLab\EqualArrays\obj\Debug\netcoreapp2.2\EqualArrays.dll
+D:\ProblemSolving\ArraysLab\EqualArrays\obj\Debug\netcoreapp2.2\EqualArrays.pdb

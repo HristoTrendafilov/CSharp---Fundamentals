@@ -1,0 +1,11 @@
+D:\ProblemSolving\ArraysLab\CondenseArraytoNumber\bin\Debug\netcoreapp2.2\CondenseArraytoNumber.deps.json
+D:\ProblemSolving\ArraysLab\CondenseArraytoNumber\bin\Debug\netcoreapp2.2\CondenseArraytoNumber.runtimeconfig.json
+D:\ProblemSolving\ArraysLab\CondenseArraytoNumber\bin\Debug\netcoreapp2.2\CondenseArraytoNumber.runtimeconfig.dev.json
+D:\ProblemSolving\ArraysLab\CondenseArraytoNumber\bin\Debug\netcoreapp2.2\CondenseArraytoNumber.dll
+D:\ProblemSolving\ArraysLab\CondenseArraytoNumber\bin\Debug\netcoreapp2.2\CondenseArraytoNumber.pdb
+D:\ProblemSolving\ArraysLab\CondenseArraytoNumber\obj\Debug\netcoreapp2.2\CondenseArraytoNumber.csproj.CoreCompileInputs.cache
+D:\ProblemSolving\ArraysLab\CondenseArraytoNumber\obj\Debug\netcoreapp2.2\CondenseArraytoNumber.AssemblyInfoInputs.cache
+D:\ProblemSolving\ArraysLab\CondenseArraytoNumber\obj\Debug\netcoreapp2.2\CondenseArraytoNumber.AssemblyInfo.cs
+D:\ProblemSolving\ArraysLab\CondenseArraytoNumber\obj\Debug\netcoreapp2.2\CondenseArraytoNumber.dll
+D:\ProblemSolving\ArraysLab\CondenseArraytoNumber\obj\Debug\netcoreapp2.2\CondenseArraytoNumber.pdb
+D:\ProblemSolving\ArraysLab\CondenseArraytoNumber\obj\Debug\netcoreapp2.2\CondenseArraytoNumber.csprojAssemblyReference.cache

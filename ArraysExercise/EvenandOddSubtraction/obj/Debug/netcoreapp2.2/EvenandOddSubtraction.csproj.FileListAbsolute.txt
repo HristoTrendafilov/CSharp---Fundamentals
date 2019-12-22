@@ -1,0 +1,11 @@
+D:\ProblemSolving\ArraysLab\EvenandOddSubtraction\bin\Debug\netcoreapp2.2\EvenandOddSubtraction.deps.json
+D:\ProblemSolving\ArraysLab\EvenandOddSubtraction\bin\Debug\netcoreapp2.2\EvenandOddSubtraction.runtimeconfig.json
+D:\ProblemSolving\ArraysLab\EvenandOddSubtraction\bin\Debug\netcoreapp2.2\EvenandOddSubtraction.runtimeconfig.dev.json
+D:\ProblemSolving\ArraysLab\EvenandOddSubtraction\bin\Debug\netcoreapp2.2\EvenandOddSubtraction.dll
+D:\ProblemSolving\ArraysLab\EvenandOddSubtraction\bin\Debug\netcoreapp2.2\EvenandOddSubtraction.pdb
+D:\ProblemSolving\ArraysLab\EvenandOddSubtraction\obj\Debug\netcoreapp2.2\EvenandOddSubtraction.csprojAssemblyReference.cache
+D:\ProblemSolving\ArraysLab\EvenandOddSubtraction\obj\Debug\netcoreapp2.2\EvenandOddSubtraction.csproj.CoreCompileInputs.cache
+D:\ProblemSolving\ArraysLab\EvenandOddSubtraction\obj\Debug\netcoreapp2.2\EvenandOddSubtraction.AssemblyInfoInputs.cache
+D:\ProblemSolving\ArraysLab\EvenandOddSubtraction\obj\Debug\netcoreapp2.2\EvenandOddSubtraction.AssemblyInfo.cs
+D:\ProblemSolving\ArraysLab\EvenandOddSubtraction\obj\Debug\netcoreapp2.2\EvenandOddSubtraction.dll
+D:\ProblemSolving\ArraysLab\EvenandOddSubtraction\obj\Debug\netcoreapp2.2\EvenandOddSubtraction.pdb
