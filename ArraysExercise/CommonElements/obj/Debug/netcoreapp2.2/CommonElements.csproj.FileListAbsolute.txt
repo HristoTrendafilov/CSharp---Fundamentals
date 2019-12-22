@@ -1,0 +1,11 @@
+D:\ProblemSolving\ArraysExercise\CommonElements\bin\Debug\netcoreapp2.2\CommonElements.deps.json
+D:\ProblemSolving\ArraysExercise\CommonElements\bin\Debug\netcoreapp2.2\CommonElements.runtimeconfig.json
+D:\ProblemSolving\ArraysExercise\CommonElements\bin\Debug\netcoreapp2.2\CommonElements.runtimeconfig.dev.json
+D:\ProblemSolving\ArraysExercise\CommonElements\bin\Debug\netcoreapp2.2\CommonElements.dll
+D:\ProblemSolving\ArraysExercise\CommonElements\bin\Debug\netcoreapp2.2\CommonElements.pdb
+D:\ProblemSolving\ArraysExercise\CommonElements\obj\Debug\netcoreapp2.2\CommonElements.csproj.CoreCompileInputs.cache
+D:\ProblemSolving\ArraysExercise\CommonElements\obj\Debug\netcoreapp2.2\CommonElements.AssemblyInfoInputs.cache
+D:\ProblemSolving\ArraysExercise\CommonElements\obj\Debug\netcoreapp2.2\CommonElements.AssemblyInfo.cs
+D:\ProblemSolving\ArraysExercise\CommonElements\obj\Debug\netcoreapp2.2\CommonElements.dll
+D:\ProblemSolving\ArraysExercise\CommonElements\obj\Debug\netcoreapp2.2\CommonElements.pdb
+D:\ProblemSolving\ArraysExercise\CommonElements\obj\Debug\netcoreapp2.2\CommonElements.csprojAssemblyReference.cache

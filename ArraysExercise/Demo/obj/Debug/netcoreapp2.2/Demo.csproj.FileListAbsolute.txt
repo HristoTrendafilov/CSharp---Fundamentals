@@ -1,0 +1,11 @@
+D:\ProblemSolving\ArraysExercise\Demo\bin\Debug\netcoreapp2.2\Demo.deps.json
+D:\ProblemSolving\ArraysExercise\Demo\bin\Debug\netcoreapp2.2\Demo.runtimeconfig.json
+D:\ProblemSolving\ArraysExercise\Demo\bin\Debug\netcoreapp2.2\Demo.runtimeconfig.dev.json
+D:\ProblemSolving\ArraysExercise\Demo\bin\Debug\netcoreapp2.2\Demo.dll
+D:\ProblemSolving\ArraysExercise\Demo\bin\Debug\netcoreapp2.2\Demo.pdb
+D:\ProblemSolving\ArraysExercise\Demo\obj\Debug\netcoreapp2.2\Demo.csproj.CoreCompileInputs.cache
+D:\ProblemSolving\ArraysExercise\Demo\obj\Debug\netcoreapp2.2\Demo.AssemblyInfoInputs.cache
+D:\ProblemSolving\ArraysExercise\Demo\obj\Debug\netcoreapp2.2\Demo.AssemblyInfo.cs
+D:\ProblemSolving\ArraysExercise\Demo\obj\Debug\netcoreapp2.2\Demo.dll
+D:\ProblemSolving\ArraysExercise\Demo\obj\Debug\netcoreapp2.2\Demo.pdb
+D:\ProblemSolving\ArraysExercise\Demo\obj\Debug\netcoreapp2.2\Demo.csprojAssemblyReference.cache
