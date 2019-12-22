@@ -1,0 +1,11 @@
+E:\Hristo\ProblemSolving\BasicSyntaxExercise\PadawanEquipment\bin\Debug\netcoreapp3.0\PadawanEquipment.exe
+E:\Hristo\ProblemSolving\BasicSyntaxExercise\PadawanEquipment\bin\Debug\netcoreapp3.0\PadawanEquipment.deps.json
+E:\Hristo\ProblemSolving\BasicSyntaxExercise\PadawanEquipment\bin\Debug\netcoreapp3.0\PadawanEquipment.runtimeconfig.json
+E:\Hristo\ProblemSolving\BasicSyntaxExercise\PadawanEquipment\bin\Debug\netcoreapp3.0\PadawanEquipment.runtimeconfig.dev.json
+E:\Hristo\ProblemSolving\BasicSyntaxExercise\PadawanEquipment\bin\Debug\netcoreapp3.0\PadawanEquipment.dll
+E:\Hristo\ProblemSolving\BasicSyntaxExercise\PadawanEquipment\bin\Debug\netcoreapp3.0\PadawanEquipment.pdb
+E:\Hristo\ProblemSolving\BasicSyntaxExercise\PadawanEquipment\obj\Debug\netcoreapp3.0\PadawanEquipment.csprojAssemblyReference.cache
+E:\Hristo\ProblemSolving\BasicSyntaxExercise\PadawanEquipment\obj\Debug\netcoreapp3.0\PadawanEquipment.AssemblyInfoInputs.cache
+E:\Hristo\ProblemSolving\BasicSyntaxExercise\PadawanEquipment\obj\Debug\netcoreapp3.0\PadawanEquipment.AssemblyInfo.cs
+E:\Hristo\ProblemSolving\BasicSyntaxExercise\PadawanEquipment\obj\Debug\netcoreapp3.0\PadawanEquipment.dll
+E:\Hristo\ProblemSolving\BasicSyntaxExercise\PadawanEquipment\obj\Debug\netcoreapp3.0\PadawanEquipment.pdb

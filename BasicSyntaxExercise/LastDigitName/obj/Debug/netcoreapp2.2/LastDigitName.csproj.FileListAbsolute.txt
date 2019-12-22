@@ -1,0 +1,10 @@
+D:\ProblemSolving\Solution1\LastDigitName\bin\Debug\netcoreapp2.2\LastDigitName.deps.json
+D:\ProblemSolving\Solution1\LastDigitName\bin\Debug\netcoreapp2.2\LastDigitName.runtimeconfig.json
+D:\ProblemSolving\Solution1\LastDigitName\bin\Debug\netcoreapp2.2\LastDigitName.runtimeconfig.dev.json
+D:\ProblemSolving\Solution1\LastDigitName\bin\Debug\netcoreapp2.2\LastDigitName.dll
+D:\ProblemSolving\Solution1\LastDigitName\bin\Debug\netcoreapp2.2\LastDigitName.pdb
+D:\ProblemSolving\Solution1\LastDigitName\obj\Debug\netcoreapp2.2\LastDigitName.csproj.CoreCompileInputs.cache
+D:\ProblemSolving\Solution1\LastDigitName\obj\Debug\netcoreapp2.2\LastDigitName.AssemblyInfoInputs.cache
+D:\ProblemSolving\Solution1\LastDigitName\obj\Debug\netcoreapp2.2\LastDigitName.AssemblyInfo.cs
+D:\ProblemSolving\Solution1\LastDigitName\obj\Debug\netcoreapp2.2\LastDigitName.dll
+D:\ProblemSolving\Solution1\LastDigitName\obj\Debug\netcoreapp2.2\LastDigitName.pdb
