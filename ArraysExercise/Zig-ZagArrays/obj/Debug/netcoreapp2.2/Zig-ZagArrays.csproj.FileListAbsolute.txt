@@ -1,0 +1,11 @@
+D:\ProblemSolving\ArraysExercise\Zig-ZagArrays\bin\Debug\netcoreapp2.2\Zig-ZagArrays.deps.json
+D:\ProblemSolving\ArraysExercise\Zig-ZagArrays\bin\Debug\netcoreapp2.2\Zig-ZagArrays.runtimeconfig.json
+D:\ProblemSolving\ArraysExercise\Zig-ZagArrays\bin\Debug\netcoreapp2.2\Zig-ZagArrays.runtimeconfig.dev.json
+D:\ProblemSolving\ArraysExercise\Zig-ZagArrays\bin\Debug\netcoreapp2.2\Zig-ZagArrays.dll
+D:\ProblemSolving\ArraysExercise\Zig-ZagArrays\bin\Debug\netcoreapp2.2\Zig-ZagArrays.pdb
+D:\ProblemSolving\ArraysExercise\Zig-ZagArrays\obj\Debug\netcoreapp2.2\Zig-ZagArrays.csprojAssemblyReference.cache
+D:\ProblemSolving\ArraysExercise\Zig-ZagArrays\obj\Debug\netcoreapp2.2\Zig-ZagArrays.csproj.CoreCompileInputs.cache
+D:\ProblemSolving\ArraysExercise\Zig-ZagArrays\obj\Debug\netcoreapp2.2\Zig-ZagArrays.AssemblyInfoInputs.cache
+D:\ProblemSolving\ArraysExercise\Zig-ZagArrays\obj\Debug\netcoreapp2.2\Zig-ZagArrays.AssemblyInfo.cs
+D:\ProblemSolving\ArraysExercise\Zig-ZagArrays\obj\Debug\netcoreapp2.2\Zig-ZagArrays.dll
+D:\ProblemSolving\ArraysExercise\Zig-ZagArrays\obj\Debug\netcoreapp2.2\Zig-ZagArrays.pdb

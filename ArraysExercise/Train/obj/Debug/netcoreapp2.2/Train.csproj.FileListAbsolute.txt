@@ -1,0 +1,11 @@
+D:\ProblemSolving\ArraysExercise\Train\bin\Debug\netcoreapp2.2\Train.deps.json
+D:\ProblemSolving\ArraysExercise\Train\bin\Debug\netcoreapp2.2\Train.runtimeconfig.json
+D:\ProblemSolving\ArraysExercise\Train\bin\Debug\netcoreapp2.2\Train.runtimeconfig.dev.json
+D:\ProblemSolving\ArraysExercise\Train\bin\Debug\netcoreapp2.2\Train.dll
+D:\ProblemSolving\ArraysExercise\Train\bin\Debug\netcoreapp2.2\Train.pdb
+D:\ProblemSolving\ArraysExercise\Train\obj\Debug\netcoreapp2.2\Train.csprojAssemblyReference.cache
+D:\ProblemSolving\ArraysExercise\Train\obj\Debug\netcoreapp2.2\Train.csproj.CoreCompileInputs.cache
+D:\ProblemSolving\ArraysExercise\Train\obj\Debug\netcoreapp2.2\Train.AssemblyInfoInputs.cache
+D:\ProblemSolving\ArraysExercise\Train\obj\Debug\netcoreapp2.2\Train.AssemblyInfo.cs
+D:\ProblemSolving\ArraysExercise\Train\obj\Debug\netcoreapp2.2\Train.dll
+D:\ProblemSolving\ArraysExercise\Train\obj\Debug\netcoreapp2.2\Train.pdb
