@@ -1,0 +1,11 @@
+D:\ProblemSolving\ArraysLab\RoundingNumbers\bin\Debug\netcoreapp2.2\RoundingNumbers.deps.json
+D:\ProblemSolving\ArraysLab\RoundingNumbers\bin\Debug\netcoreapp2.2\RoundingNumbers.runtimeconfig.json
+D:\ProblemSolving\ArraysLab\RoundingNumbers\bin\Debug\netcoreapp2.2\RoundingNumbers.runtimeconfig.dev.json
+D:\ProblemSolving\ArraysLab\RoundingNumbers\bin\Debug\netcoreapp2.2\RoundingNumbers.dll
+D:\ProblemSolving\ArraysLab\RoundingNumbers\bin\Debug\netcoreapp2.2\RoundingNumbers.pdb
+D:\ProblemSolving\ArraysLab\RoundingNumbers\obj\Debug\netcoreapp2.2\RoundingNumbers.csprojAssemblyReference.cache
+D:\ProblemSolving\ArraysLab\RoundingNumbers\obj\Debug\netcoreapp2.2\RoundingNumbers.csproj.CoreCompileInputs.cache
+D:\ProblemSolving\ArraysLab\RoundingNumbers\obj\Debug\netcoreapp2.2\RoundingNumbers.AssemblyInfoInputs.cache
+D:\ProblemSolving\ArraysLab\RoundingNumbers\obj\Debug\netcoreapp2.2\RoundingNumbers.AssemblyInfo.cs
+D:\ProblemSolving\ArraysLab\RoundingNumbers\obj\Debug\netcoreapp2.2\RoundingNumbers.dll
+D:\ProblemSolving\ArraysLab\RoundingNumbers\obj\Debug\netcoreapp2.2\RoundingNumbers.pdb

@@ -1,0 +1,11 @@
+D:\ProblemSolving\ArraysLab\PrintNumbersinReverseOrder\bin\Debug\netcoreapp2.2\PrintNumbersinReverseOrder.deps.json
+D:\ProblemSolving\ArraysLab\PrintNumbersinReverseOrder\bin\Debug\netcoreapp2.2\PrintNumbersinReverseOrder.runtimeconfig.json
+D:\ProblemSolving\ArraysLab\PrintNumbersinReverseOrder\bin\Debug\netcoreapp2.2\PrintNumbersinReverseOrder.runtimeconfig.dev.json
+D:\ProblemSolving\ArraysLab\PrintNumbersinReverseOrder\bin\Debug\netcoreapp2.2\PrintNumbersinReverseOrder.dll
+D:\ProblemSolving\ArraysLab\PrintNumbersinReverseOrder\bin\Debug\netcoreapp2.2\PrintNumbersinReverseOrder.pdb
+D:\ProblemSolving\ArraysLab\PrintNumbersinReverseOrder\obj\Debug\netcoreapp2.2\PrintNumbersinReverseOrder.csprojAssemblyReference.cache
+D:\ProblemSolving\ArraysLab\PrintNumbersinReverseOrder\obj\Debug\netcoreapp2.2\PrintNumbersinReverseOrder.csproj.CoreCompileInputs.cache
+D:\ProblemSolving\ArraysLab\PrintNumbersinReverseOrder\obj\Debug\netcoreapp2.2\PrintNumbersinReverseOrder.AssemblyInfoInputs.cache
+D:\ProblemSolving\ArraysLab\PrintNumbersinReverseOrder\obj\Debug\netcoreapp2.2\PrintNumbersinReverseOrder.AssemblyInfo.cs
+D:\ProblemSolving\ArraysLab\PrintNumbersinReverseOrder\obj\Debug\netcoreapp2.2\PrintNumbersinReverseOrder.dll
+D:\ProblemSolving\ArraysLab\PrintNumbersinReverseOrder\obj\Debug\netcoreapp2.2\PrintNumbersinReverseOrder.pdb
