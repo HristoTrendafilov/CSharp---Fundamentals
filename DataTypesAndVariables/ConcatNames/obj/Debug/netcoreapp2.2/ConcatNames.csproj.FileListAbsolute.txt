@@ -1,0 +1,10 @@
+D:\ProblemSolving\DataTypesAndVariables\ConcatNames\bin\Debug\netcoreapp2.2\ConcatNames.deps.json
+D:\ProblemSolving\DataTypesAndVariables\ConcatNames\bin\Debug\netcoreapp2.2\ConcatNames.runtimeconfig.json
+D:\ProblemSolving\DataTypesAndVariables\ConcatNames\bin\Debug\netcoreapp2.2\ConcatNames.runtimeconfig.dev.json
+D:\ProblemSolving\DataTypesAndVariables\ConcatNames\bin\Debug\netcoreapp2.2\ConcatNames.dll
+D:\ProblemSolving\DataTypesAndVariables\ConcatNames\bin\Debug\netcoreapp2.2\ConcatNames.pdb
+D:\ProblemSolving\DataTypesAndVariables\ConcatNames\obj\Debug\netcoreapp2.2\ConcatNames.csproj.CoreCompileInputs.cache
+D:\ProblemSolving\DataTypesAndVariables\ConcatNames\obj\Debug\netcoreapp2.2\ConcatNames.AssemblyInfoInputs.cache
+D:\ProblemSolving\DataTypesAndVariables\ConcatNames\obj\Debug\netcoreapp2.2\ConcatNames.AssemblyInfo.cs
+D:\ProblemSolving\DataTypesAndVariables\ConcatNames\obj\Debug\netcoreapp2.2\ConcatNames.dll
+D:\ProblemSolving\DataTypesAndVariables\ConcatNames\obj\Debug\netcoreapp2.2\ConcatNames.pdb
