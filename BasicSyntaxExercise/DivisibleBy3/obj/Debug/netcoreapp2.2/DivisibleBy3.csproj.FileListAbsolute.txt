@@ -1,0 +1,10 @@
+D:\ProblemSolving\BasicSyntaxLab\DivisibleBy3\bin\Debug\netcoreapp2.2\DivisibleBy3.deps.json
+D:\ProblemSolving\BasicSyntaxLab\DivisibleBy3\bin\Debug\netcoreapp2.2\DivisibleBy3.runtimeconfig.json
+D:\ProblemSolving\BasicSyntaxLab\DivisibleBy3\bin\Debug\netcoreapp2.2\DivisibleBy3.runtimeconfig.dev.json
+D:\ProblemSolving\BasicSyntaxLab\DivisibleBy3\bin\Debug\netcoreapp2.2\DivisibleBy3.dll
+D:\ProblemSolving\BasicSyntaxLab\DivisibleBy3\bin\Debug\netcoreapp2.2\DivisibleBy3.pdb
+D:\ProblemSolving\BasicSyntaxLab\DivisibleBy3\obj\Debug\netcoreapp2.2\DivisibleBy3.csproj.CoreCompileInputs.cache
+D:\ProblemSolving\BasicSyntaxLab\DivisibleBy3\obj\Debug\netcoreapp2.2\DivisibleBy3.AssemblyInfoInputs.cache
+D:\ProblemSolving\BasicSyntaxLab\DivisibleBy3\obj\Debug\netcoreapp2.2\DivisibleBy3.AssemblyInfo.cs
+D:\ProblemSolving\BasicSyntaxLab\DivisibleBy3\obj\Debug\netcoreapp2.2\DivisibleBy3.dll
+D:\ProblemSolving\BasicSyntaxLab\DivisibleBy3\obj\Debug\netcoreapp2.2\DivisibleBy3.pdb

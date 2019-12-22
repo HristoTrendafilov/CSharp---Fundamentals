@@ -1,0 +1,11 @@
+D:\ProblemSolving\BasicSyntaxLab\EvenNumber\bin\Debug\netcoreapp2.2\EvenNumber.deps.json
+D:\ProblemSolving\BasicSyntaxLab\EvenNumber\bin\Debug\netcoreapp2.2\EvenNumber.runtimeconfig.json
+D:\ProblemSolving\BasicSyntaxLab\EvenNumber\bin\Debug\netcoreapp2.2\EvenNumber.runtimeconfig.dev.json
+D:\ProblemSolving\BasicSyntaxLab\EvenNumber\bin\Debug\netcoreapp2.2\EvenNumber.dll
+D:\ProblemSolving\BasicSyntaxLab\EvenNumber\bin\Debug\netcoreapp2.2\EvenNumber.pdb
+D:\ProblemSolving\BasicSyntaxLab\EvenNumber\obj\Debug\netcoreapp2.2\EvenNumber.csprojAssemblyReference.cache
+D:\ProblemSolving\BasicSyntaxLab\EvenNumber\obj\Debug\netcoreapp2.2\EvenNumber.csproj.CoreCompileInputs.cache
+D:\ProblemSolving\BasicSyntaxLab\EvenNumber\obj\Debug\netcoreapp2.2\EvenNumber.AssemblyInfoInputs.cache
+D:\ProblemSolving\BasicSyntaxLab\EvenNumber\obj\Debug\netcoreapp2.2\EvenNumber.AssemblyInfo.cs
+D:\ProblemSolving\BasicSyntaxLab\EvenNumber\obj\Debug\netcoreapp2.2\EvenNumber.dll
+D:\ProblemSolving\BasicSyntaxLab\EvenNumber\obj\Debug\netcoreapp2.2\EvenNumber.pdb

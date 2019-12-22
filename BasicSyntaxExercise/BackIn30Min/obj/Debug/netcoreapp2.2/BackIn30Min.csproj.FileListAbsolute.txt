@@ -1,0 +1,11 @@
+D:\ProblemSolving\BasicSyntaxLab\BackIn30Min\bin\Debug\netcoreapp2.2\BackIn30Min.deps.json
+D:\ProblemSolving\BasicSyntaxLab\BackIn30Min\bin\Debug\netcoreapp2.2\BackIn30Min.runtimeconfig.json
+D:\ProblemSolving\BasicSyntaxLab\BackIn30Min\bin\Debug\netcoreapp2.2\BackIn30Min.runtimeconfig.dev.json
+D:\ProblemSolving\BasicSyntaxLab\BackIn30Min\bin\Debug\netcoreapp2.2\BackIn30Min.dll
+D:\ProblemSolving\BasicSyntaxLab\BackIn30Min\bin\Debug\netcoreapp2.2\BackIn30Min.pdb
+D:\ProblemSolving\BasicSyntaxLab\BackIn30Min\obj\Debug\netcoreapp2.2\BackIn30Min.csprojAssemblyReference.cache
+D:\ProblemSolving\BasicSyntaxLab\BackIn30Min\obj\Debug\netcoreapp2.2\BackIn30Min.csproj.CoreCompileInputs.cache
+D:\ProblemSolving\BasicSyntaxLab\BackIn30Min\obj\Debug\netcoreapp2.2\BackIn30Min.AssemblyInfoInputs.cache
+D:\ProblemSolving\BasicSyntaxLab\BackIn30Min\obj\Debug\netcoreapp2.2\BackIn30Min.AssemblyInfo.cs
+D:\ProblemSolving\BasicSyntaxLab\BackIn30Min\obj\Debug\netcoreapp2.2\BackIn30Min.dll
+D:\ProblemSolving\BasicSyntaxLab\BackIn30Min\obj\Debug\netcoreapp2.2\BackIn30Min.pdb

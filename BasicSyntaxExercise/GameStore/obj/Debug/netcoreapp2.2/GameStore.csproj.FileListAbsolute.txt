@@ -1,0 +1,11 @@
+D:\ProblemSolving\BasicSyntaxLab\GameStore\bin\Debug\netcoreapp2.2\GameStore.deps.json
+D:\ProblemSolving\BasicSyntaxLab\GameStore\bin\Debug\netcoreapp2.2\GameStore.runtimeconfig.json
+D:\ProblemSolving\BasicSyntaxLab\GameStore\bin\Debug\netcoreapp2.2\GameStore.runtimeconfig.dev.json
+D:\ProblemSolving\BasicSyntaxLab\GameStore\bin\Debug\netcoreapp2.2\GameStore.dll
+D:\ProblemSolving\BasicSyntaxLab\GameStore\bin\Debug\netcoreapp2.2\GameStore.pdb
+D:\ProblemSolving\BasicSyntaxLab\GameStore\obj\Debug\netcoreapp2.2\GameStore.csprojAssemblyReference.cache
+D:\ProblemSolving\BasicSyntaxLab\GameStore\obj\Debug\netcoreapp2.2\GameStore.csproj.CoreCompileInputs.cache
+D:\ProblemSolving\BasicSyntaxLab\GameStore\obj\Debug\netcoreapp2.2\GameStore.AssemblyInfoInputs.cache
+D:\ProblemSolving\BasicSyntaxLab\GameStore\obj\Debug\netcoreapp2.2\GameStore.AssemblyInfo.cs
+D:\ProblemSolving\BasicSyntaxLab\GameStore\obj\Debug\netcoreapp2.2\GameStore.dll
+D:\ProblemSolving\BasicSyntaxLab\GameStore\obj\Debug\netcoreapp2.2\GameStore.pdb
