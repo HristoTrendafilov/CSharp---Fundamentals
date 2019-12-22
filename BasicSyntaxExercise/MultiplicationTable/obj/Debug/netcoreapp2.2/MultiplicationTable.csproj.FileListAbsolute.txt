@@ -1,0 +1,10 @@
+D:\ProblemSolving\BasicSyntaxLab\MultiplicationTable\bin\Debug\netcoreapp2.2\MultiplicationTable.deps.json
+D:\ProblemSolving\BasicSyntaxLab\MultiplicationTable\bin\Debug\netcoreapp2.2\MultiplicationTable.runtimeconfig.json
+D:\ProblemSolving\BasicSyntaxLab\MultiplicationTable\bin\Debug\netcoreapp2.2\MultiplicationTable.runtimeconfig.dev.json
+D:\ProblemSolving\BasicSyntaxLab\MultiplicationTable\bin\Debug\netcoreapp2.2\MultiplicationTable.dll
+D:\ProblemSolving\BasicSyntaxLab\MultiplicationTable\bin\Debug\netcoreapp2.2\MultiplicationTable.pdb
+D:\ProblemSolving\BasicSyntaxLab\MultiplicationTable\obj\Debug\netcoreapp2.2\MultiplicationTable.csproj.CoreCompileInputs.cache
+D:\ProblemSolving\BasicSyntaxLab\MultiplicationTable\obj\Debug\netcoreapp2.2\MultiplicationTable.AssemblyInfoInputs.cache
+D:\ProblemSolving\BasicSyntaxLab\MultiplicationTable\obj\Debug\netcoreapp2.2\MultiplicationTable.AssemblyInfo.cs
+D:\ProblemSolving\BasicSyntaxLab\MultiplicationTable\obj\Debug\netcoreapp2.2\MultiplicationTable.dll
+D:\ProblemSolving\BasicSyntaxLab\MultiplicationTable\obj\Debug\netcoreapp2.2\MultiplicationTable.pdb

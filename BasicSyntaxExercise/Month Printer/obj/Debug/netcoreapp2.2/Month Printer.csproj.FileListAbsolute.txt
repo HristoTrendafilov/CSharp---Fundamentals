@@ -1,0 +1,10 @@
+D:\ProblemSolving\BasicSyntaxLab\Month Printer\bin\Debug\netcoreapp2.2\Month Printer.deps.json
+D:\ProblemSolving\BasicSyntaxLab\Month Printer\bin\Debug\netcoreapp2.2\Month Printer.runtimeconfig.json
+D:\ProblemSolving\BasicSyntaxLab\Month Printer\bin\Debug\netcoreapp2.2\Month Printer.runtimeconfig.dev.json
+D:\ProblemSolving\BasicSyntaxLab\Month Printer\bin\Debug\netcoreapp2.2\Month Printer.dll
+D:\ProblemSolving\BasicSyntaxLab\Month Printer\bin\Debug\netcoreapp2.2\Month Printer.pdb
+D:\ProblemSolving\BasicSyntaxLab\Month Printer\obj\Debug\netcoreapp2.2\Month Printer.csproj.CoreCompileInputs.cache
+D:\ProblemSolving\BasicSyntaxLab\Month Printer\obj\Debug\netcoreapp2.2\Month Printer.AssemblyInfoInputs.cache
+D:\ProblemSolving\BasicSyntaxLab\Month Printer\obj\Debug\netcoreapp2.2\Month Printer.AssemblyInfo.cs
+D:\ProblemSolving\BasicSyntaxLab\Month Printer\obj\Debug\netcoreapp2.2\Month Printer.dll
+D:\ProblemSolving\BasicSyntaxLab\Month Printer\obj\Debug\netcoreapp2.2\Month Printer.pdb
