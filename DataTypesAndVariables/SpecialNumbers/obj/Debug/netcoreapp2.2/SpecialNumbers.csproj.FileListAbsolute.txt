@@ -1,0 +1,11 @@
+D:\ProblemSolving\DataTypesAndVariables\SpecialNumbers\bin\Debug\netcoreapp2.2\SpecialNumbers.deps.json
+D:\ProblemSolving\DataTypesAndVariables\SpecialNumbers\bin\Debug\netcoreapp2.2\SpecialNumbers.runtimeconfig.json
+D:\ProblemSolving\DataTypesAndVariables\SpecialNumbers\bin\Debug\netcoreapp2.2\SpecialNumbers.runtimeconfig.dev.json
+D:\ProblemSolving\DataTypesAndVariables\SpecialNumbers\bin\Debug\netcoreapp2.2\SpecialNumbers.dll
+D:\ProblemSolving\DataTypesAndVariables\SpecialNumbers\bin\Debug\netcoreapp2.2\SpecialNumbers.pdb
+D:\ProblemSolving\DataTypesAndVariables\SpecialNumbers\obj\Debug\netcoreapp2.2\SpecialNumbers.csproj.CoreCompileInputs.cache
+D:\ProblemSolving\DataTypesAndVariables\SpecialNumbers\obj\Debug\netcoreapp2.2\SpecialNumbers.AssemblyInfoInputs.cache
+D:\ProblemSolving\DataTypesAndVariables\SpecialNumbers\obj\Debug\netcoreapp2.2\SpecialNumbers.AssemblyInfo.cs
+D:\ProblemSolving\DataTypesAndVariables\SpecialNumbers\obj\Debug\netcoreapp2.2\SpecialNumbers.dll
+D:\ProblemSolving\DataTypesAndVariables\SpecialNumbers\obj\Debug\netcoreapp2.2\SpecialNumbers.pdb
+D:\ProblemSolving\DataTypesAndVariables\SpecialNumbers\obj\Debug\netcoreapp2.2\SpecialNumbers.csprojAssemblyReference.cache

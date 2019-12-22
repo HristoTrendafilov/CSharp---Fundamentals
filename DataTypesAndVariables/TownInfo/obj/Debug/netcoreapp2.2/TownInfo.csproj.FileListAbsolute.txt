@@ -1,0 +1,10 @@
+D:\ProblemSolving\DataTypesAndVariables\TownInfo\bin\Debug\netcoreapp2.2\TownInfo.deps.json
+D:\ProblemSolving\DataTypesAndVariables\TownInfo\bin\Debug\netcoreapp2.2\TownInfo.runtimeconfig.json
+D:\ProblemSolving\DataTypesAndVariables\TownInfo\bin\Debug\netcoreapp2.2\TownInfo.runtimeconfig.dev.json
+D:\ProblemSolving\DataTypesAndVariables\TownInfo\bin\Debug\netcoreapp2.2\TownInfo.dll
+D:\ProblemSolving\DataTypesAndVariables\TownInfo\bin\Debug\netcoreapp2.2\TownInfo.pdb
+D:\ProblemSolving\DataTypesAndVariables\TownInfo\obj\Debug\netcoreapp2.2\TownInfo.csproj.CoreCompileInputs.cache
+D:\ProblemSolving\DataTypesAndVariables\TownInfo\obj\Debug\netcoreapp2.2\TownInfo.AssemblyInfoInputs.cache
+D:\ProblemSolving\DataTypesAndVariables\TownInfo\obj\Debug\netcoreapp2.2\TownInfo.AssemblyInfo.cs
+D:\ProblemSolving\DataTypesAndVariables\TownInfo\obj\Debug\netcoreapp2.2\TownInfo.dll
+D:\ProblemSolving\DataTypesAndVariables\TownInfo\obj\Debug\netcoreapp2.2\TownInfo.pdb

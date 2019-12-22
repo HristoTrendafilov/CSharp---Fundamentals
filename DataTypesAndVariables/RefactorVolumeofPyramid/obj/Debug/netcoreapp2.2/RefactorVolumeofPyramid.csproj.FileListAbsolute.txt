@@ -1,0 +1,11 @@
+D:\ProblemSolving\DataTypesAndVariables\RefactorVolumeofPyramid\bin\Debug\netcoreapp2.2\RefactorVolumeofPyramid.deps.json
+D:\ProblemSolving\DataTypesAndVariables\RefactorVolumeofPyramid\bin\Debug\netcoreapp2.2\RefactorVolumeofPyramid.runtimeconfig.json
+D:\ProblemSolving\DataTypesAndVariables\RefactorVolumeofPyramid\bin\Debug\netcoreapp2.2\RefactorVolumeofPyramid.runtimeconfig.dev.json
+D:\ProblemSolving\DataTypesAndVariables\RefactorVolumeofPyramid\bin\Debug\netcoreapp2.2\RefactorVolumeofPyramid.dll
+D:\ProblemSolving\DataTypesAndVariables\RefactorVolumeofPyramid\bin\Debug\netcoreapp2.2\RefactorVolumeofPyramid.pdb
+D:\ProblemSolving\DataTypesAndVariables\RefactorVolumeofPyramid\obj\Debug\netcoreapp2.2\RefactorVolumeofPyramid.csproj.CoreCompileInputs.cache
+D:\ProblemSolving\DataTypesAndVariables\RefactorVolumeofPyramid\obj\Debug\netcoreapp2.2\RefactorVolumeofPyramid.AssemblyInfoInputs.cache
+D:\ProblemSolving\DataTypesAndVariables\RefactorVolumeofPyramid\obj\Debug\netcoreapp2.2\RefactorVolumeofPyramid.AssemblyInfo.cs
+D:\ProblemSolving\DataTypesAndVariables\RefactorVolumeofPyramid\obj\Debug\netcoreapp2.2\RefactorVolumeofPyramid.dll
+D:\ProblemSolving\DataTypesAndVariables\RefactorVolumeofPyramid\obj\Debug\netcoreapp2.2\RefactorVolumeofPyramid.pdb
+D:\ProblemSolving\DataTypesAndVariables\RefactorVolumeofPyramid\obj\Debug\netcoreapp2.2\RefactorVolumeofPyramid.csprojAssemblyReference.cache

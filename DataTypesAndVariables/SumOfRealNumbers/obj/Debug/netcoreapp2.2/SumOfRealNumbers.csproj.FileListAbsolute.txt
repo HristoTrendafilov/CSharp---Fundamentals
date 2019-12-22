@@ -1,0 +1,11 @@
+D:\ProblemSolving\DataTypesAndVariables\SumOfRealNumbers\bin\Debug\netcoreapp2.2\SumOfRealNumbers.deps.json
+D:\ProblemSolving\DataTypesAndVariables\SumOfRealNumbers\bin\Debug\netcoreapp2.2\SumOfRealNumbers.runtimeconfig.json
+D:\ProblemSolving\DataTypesAndVariables\SumOfRealNumbers\bin\Debug\netcoreapp2.2\SumOfRealNumbers.runtimeconfig.dev.json
+D:\ProblemSolving\DataTypesAndVariables\SumOfRealNumbers\bin\Debug\netcoreapp2.2\SumOfRealNumbers.dll
+D:\ProblemSolving\DataTypesAndVariables\SumOfRealNumbers\bin\Debug\netcoreapp2.2\SumOfRealNumbers.pdb
+D:\ProblemSolving\DataTypesAndVariables\SumOfRealNumbers\obj\Debug\netcoreapp2.2\SumOfRealNumbers.csprojAssemblyReference.cache
+D:\ProblemSolving\DataTypesAndVariables\SumOfRealNumbers\obj\Debug\netcoreapp2.2\SumOfRealNumbers.csproj.CoreCompileInputs.cache
+D:\ProblemSolving\DataTypesAndVariables\SumOfRealNumbers\obj\Debug\netcoreapp2.2\SumOfRealNumbers.AssemblyInfoInputs.cache
+D:\ProblemSolving\DataTypesAndVariables\SumOfRealNumbers\obj\Debug\netcoreapp2.2\SumOfRealNumbers.AssemblyInfo.cs
+D:\ProblemSolving\DataTypesAndVariables\SumOfRealNumbers\obj\Debug\netcoreapp2.2\SumOfRealNumbers.dll
+D:\ProblemSolving\DataTypesAndVariables\SumOfRealNumbers\obj\Debug\netcoreapp2.2\SumOfRealNumbers.pdb
