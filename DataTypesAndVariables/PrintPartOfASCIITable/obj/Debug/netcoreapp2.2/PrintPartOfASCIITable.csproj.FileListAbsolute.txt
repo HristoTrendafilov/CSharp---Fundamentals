@@ -1,0 +1,10 @@
+D:\ProblemSolving\DataTypesAndVariablesExercise\PrintPartOfASCIITable\bin\Debug\netcoreapp2.2\PrintPartOfASCIITable.deps.json
+D:\ProblemSolving\DataTypesAndVariablesExercise\PrintPartOfASCIITable\bin\Debug\netcoreapp2.2\PrintPartOfASCIITable.runtimeconfig.json
+D:\ProblemSolving\DataTypesAndVariablesExercise\PrintPartOfASCIITable\bin\Debug\netcoreapp2.2\PrintPartOfASCIITable.runtimeconfig.dev.json
+D:\ProblemSolving\DataTypesAndVariablesExercise\PrintPartOfASCIITable\bin\Debug\netcoreapp2.2\PrintPartOfASCIITable.dll
+D:\ProblemSolving\DataTypesAndVariablesExercise\PrintPartOfASCIITable\bin\Debug\netcoreapp2.2\PrintPartOfASCIITable.pdb
+D:\ProblemSolving\DataTypesAndVariablesExercise\PrintPartOfASCIITable\obj\Debug\netcoreapp2.2\PrintPartOfASCIITable.csproj.CoreCompileInputs.cache
+D:\ProblemSolving\DataTypesAndVariablesExercise\PrintPartOfASCIITable\obj\Debug\netcoreapp2.2\PrintPartOfASCIITable.AssemblyInfoInputs.cache
+D:\ProblemSolving\DataTypesAndVariablesExercise\PrintPartOfASCIITable\obj\Debug\netcoreapp2.2\PrintPartOfASCIITable.AssemblyInfo.cs
+D:\ProblemSolving\DataTypesAndVariablesExercise\PrintPartOfASCIITable\obj\Debug\netcoreapp2.2\PrintPartOfASCIITable.dll
+D:\ProblemSolving\DataTypesAndVariablesExercise\PrintPartOfASCIITable\obj\Debug\netcoreapp2.2\PrintPartOfASCIITable.pdb

@@ -1,0 +1,10 @@
+D:\ProblemSolving\DataTypesAndVariablesExercise\Pokemon\bin\Debug\netcoreapp2.2\Pokemon.deps.json
+D:\ProblemSolving\DataTypesAndVariablesExercise\Pokemon\bin\Debug\netcoreapp2.2\Pokemon.runtimeconfig.json
+D:\ProblemSolving\DataTypesAndVariablesExercise\Pokemon\bin\Debug\netcoreapp2.2\Pokemon.runtimeconfig.dev.json
+D:\ProblemSolving\DataTypesAndVariablesExercise\Pokemon\bin\Debug\netcoreapp2.2\Pokemon.dll
+D:\ProblemSolving\DataTypesAndVariablesExercise\Pokemon\bin\Debug\netcoreapp2.2\Pokemon.pdb
+D:\ProblemSolving\DataTypesAndVariablesExercise\Pokemon\obj\Debug\netcoreapp2.2\Pokemon.csproj.CoreCompileInputs.cache
+D:\ProblemSolving\DataTypesAndVariablesExercise\Pokemon\obj\Debug\netcoreapp2.2\Pokemon.AssemblyInfoInputs.cache
+D:\ProblemSolving\DataTypesAndVariablesExercise\Pokemon\obj\Debug\netcoreapp2.2\Pokemon.AssemblyInfo.cs
+D:\ProblemSolving\DataTypesAndVariablesExercise\Pokemon\obj\Debug\netcoreapp2.2\Pokemon.dll
+D:\ProblemSolving\DataTypesAndVariablesExercise\Pokemon\obj\Debug\netcoreapp2.2\Pokemon.pdb

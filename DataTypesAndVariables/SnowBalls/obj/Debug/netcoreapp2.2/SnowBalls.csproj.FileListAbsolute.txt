@@ -1,0 +1,10 @@
+D:\ProblemSolving\DataTypesAndVariablesExercise\SnowBalls\bin\Debug\netcoreapp2.2\SnowBalls.deps.json
+D:\ProblemSolving\DataTypesAndVariablesExercise\SnowBalls\bin\Debug\netcoreapp2.2\SnowBalls.runtimeconfig.json
+D:\ProblemSolving\DataTypesAndVariablesExercise\SnowBalls\bin\Debug\netcoreapp2.2\SnowBalls.runtimeconfig.dev.json
+D:\ProblemSolving\DataTypesAndVariablesExercise\SnowBalls\bin\Debug\netcoreapp2.2\SnowBalls.dll
+D:\ProblemSolving\DataTypesAndVariablesExercise\SnowBalls\bin\Debug\netcoreapp2.2\SnowBalls.pdb
+D:\ProblemSolving\DataTypesAndVariablesExercise\SnowBalls\obj\Debug\netcoreapp2.2\SnowBalls.csproj.CoreCompileInputs.cache
+D:\ProblemSolving\DataTypesAndVariablesExercise\SnowBalls\obj\Debug\netcoreapp2.2\SnowBalls.AssemblyInfoInputs.cache
+D:\ProblemSolving\DataTypesAndVariablesExercise\SnowBalls\obj\Debug\netcoreapp2.2\SnowBalls.AssemblyInfo.cs
+D:\ProblemSolving\DataTypesAndVariablesExercise\SnowBalls\obj\Debug\netcoreapp2.2\SnowBalls.dll
+D:\ProblemSolving\DataTypesAndVariablesExercise\SnowBalls\obj\Debug\netcoreapp2.2\SnowBalls.pdb

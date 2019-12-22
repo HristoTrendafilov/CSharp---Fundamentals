@@ -1,0 +1,10 @@
+D:\ProblemSolving\DataTypesAndVariablesExercise\LeftToRightSum\bin\Debug\netcoreapp2.2\LeftToRightSum.deps.json
+D:\ProblemSolving\DataTypesAndVariablesExercise\LeftToRightSum\bin\Debug\netcoreapp2.2\LeftToRightSum.runtimeconfig.json
+D:\ProblemSolving\DataTypesAndVariablesExercise\LeftToRightSum\bin\Debug\netcoreapp2.2\LeftToRightSum.runtimeconfig.dev.json
+D:\ProblemSolving\DataTypesAndVariablesExercise\LeftToRightSum\bin\Debug\netcoreapp2.2\LeftToRightSum.dll
+D:\ProblemSolving\DataTypesAndVariablesExercise\LeftToRightSum\bin\Debug\netcoreapp2.2\LeftToRightSum.pdb
+D:\ProblemSolving\DataTypesAndVariablesExercise\LeftToRightSum\obj\Debug\netcoreapp2.2\LeftToRightSum.csproj.CoreCompileInputs.cache
+D:\ProblemSolving\DataTypesAndVariablesExercise\LeftToRightSum\obj\Debug\netcoreapp2.2\LeftToRightSum.AssemblyInfoInputs.cache
+D:\ProblemSolving\DataTypesAndVariablesExercise\LeftToRightSum\obj\Debug\netcoreapp2.2\LeftToRightSum.AssemblyInfo.cs
+D:\ProblemSolving\DataTypesAndVariablesExercise\LeftToRightSum\obj\Debug\netcoreapp2.2\LeftToRightSum.dll
+D:\ProblemSolving\DataTypesAndVariablesExercise\LeftToRightSum\obj\Debug\netcoreapp2.2\LeftToRightSum.pdb
