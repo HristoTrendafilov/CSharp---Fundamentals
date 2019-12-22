@@ -1,0 +1,10 @@
+D:\ProblemSolving\DataTypesAndVariables\LowerToUpper\obj\Debug\netcoreapp2.2\LowerToUpper.csproj.CoreCompileInputs.cache
+D:\ProblemSolving\DataTypesAndVariables\LowerToUpper\obj\Debug\netcoreapp2.2\LowerToUpper.AssemblyInfoInputs.cache
+D:\ProblemSolving\DataTypesAndVariables\LowerToUpper\obj\Debug\netcoreapp2.2\LowerToUpper.AssemblyInfo.cs
+D:\ProblemSolving\DataTypesAndVariables\LowerToUpper\bin\Debug\netcoreapp2.2\LowerToUpper.deps.json
+D:\ProblemSolving\DataTypesAndVariables\LowerToUpper\bin\Debug\netcoreapp2.2\LowerToUpper.runtimeconfig.json
+D:\ProblemSolving\DataTypesAndVariables\LowerToUpper\bin\Debug\netcoreapp2.2\LowerToUpper.runtimeconfig.dev.json
+D:\ProblemSolving\DataTypesAndVariables\LowerToUpper\bin\Debug\netcoreapp2.2\LowerToUpper.dll
+D:\ProblemSolving\DataTypesAndVariables\LowerToUpper\bin\Debug\netcoreapp2.2\LowerToUpper.pdb
+D:\ProblemSolving\DataTypesAndVariables\LowerToUpper\obj\Debug\netcoreapp2.2\LowerToUpper.dll
+D:\ProblemSolving\DataTypesAndVariables\LowerToUpper\obj\Debug\netcoreapp2.2\LowerToUpper.pdb

@@ -1,0 +1,11 @@
+D:\ProblemSolving\DataTypesAndVariables\PoundsToDollars\bin\Debug\netcoreapp2.2\PoundsToDollars.deps.json
+D:\ProblemSolving\DataTypesAndVariables\PoundsToDollars\bin\Debug\netcoreapp2.2\PoundsToDollars.runtimeconfig.json
+D:\ProblemSolving\DataTypesAndVariables\PoundsToDollars\bin\Debug\netcoreapp2.2\PoundsToDollars.runtimeconfig.dev.json
+D:\ProblemSolving\DataTypesAndVariables\PoundsToDollars\bin\Debug\netcoreapp2.2\PoundsToDollars.dll
+D:\ProblemSolving\DataTypesAndVariables\PoundsToDollars\bin\Debug\netcoreapp2.2\PoundsToDollars.pdb
+D:\ProblemSolving\DataTypesAndVariables\PoundsToDollars\obj\Debug\netcoreapp2.2\PoundsToDollars.csprojAssemblyReference.cache
+D:\ProblemSolving\DataTypesAndVariables\PoundsToDollars\obj\Debug\netcoreapp2.2\PoundsToDollars.csproj.CoreCompileInputs.cache
+D:\ProblemSolving\DataTypesAndVariables\PoundsToDollars\obj\Debug\netcoreapp2.2\PoundsToDollars.AssemblyInfoInputs.cache
+D:\ProblemSolving\DataTypesAndVariables\PoundsToDollars\obj\Debug\netcoreapp2.2\PoundsToDollars.AssemblyInfo.cs
+D:\ProblemSolving\DataTypesAndVariables\PoundsToDollars\obj\Debug\netcoreapp2.2\PoundsToDollars.dll
+D:\ProblemSolving\DataTypesAndVariables\PoundsToDollars\obj\Debug\netcoreapp2.2\PoundsToDollars.pdb

@@ -1,0 +1,11 @@
+D:\ProblemSolving\DataTypesAndVariables\MetersToKilometers\bin\Debug\netcoreapp2.2\MetersToKilometers.deps.json
+D:\ProblemSolving\DataTypesAndVariables\MetersToKilometers\bin\Debug\netcoreapp2.2\MetersToKilometers.runtimeconfig.json
+D:\ProblemSolving\DataTypesAndVariables\MetersToKilometers\bin\Debug\netcoreapp2.2\MetersToKilometers.runtimeconfig.dev.json
+D:\ProblemSolving\DataTypesAndVariables\MetersToKilometers\bin\Debug\netcoreapp2.2\MetersToKilometers.dll
+D:\ProblemSolving\DataTypesAndVariables\MetersToKilometers\bin\Debug\netcoreapp2.2\MetersToKilometers.pdb
+D:\ProblemSolving\DataTypesAndVariables\MetersToKilometers\obj\Debug\netcoreapp2.2\MetersToKilometers.csprojAssemblyReference.cache
+D:\ProblemSolving\DataTypesAndVariables\MetersToKilometers\obj\Debug\netcoreapp2.2\MetersToKilometers.csproj.CoreCompileInputs.cache
+D:\ProblemSolving\DataTypesAndVariables\MetersToKilometers\obj\Debug\netcoreapp2.2\MetersToKilometers.AssemblyInfoInputs.cache
+D:\ProblemSolving\DataTypesAndVariables\MetersToKilometers\obj\Debug\netcoreapp2.2\MetersToKilometers.AssemblyInfo.cs
+D:\ProblemSolving\DataTypesAndVariables\MetersToKilometers\obj\Debug\netcoreapp2.2\MetersToKilometers.dll
+D:\ProblemSolving\DataTypesAndVariables\MetersToKilometers\obj\Debug\netcoreapp2.2\MetersToKilometers.pdb

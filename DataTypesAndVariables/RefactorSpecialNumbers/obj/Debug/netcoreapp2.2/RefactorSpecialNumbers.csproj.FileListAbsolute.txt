@@ -1,0 +1,10 @@
+D:\ProblemSolving\DataTypesAndVariables\RefactorSpecialNumbers\bin\Debug\netcoreapp2.2\RefactorSpecialNumbers.deps.json
+D:\ProblemSolving\DataTypesAndVariables\RefactorSpecialNumbers\bin\Debug\netcoreapp2.2\RefactorSpecialNumbers.runtimeconfig.json
+D:\ProblemSolving\DataTypesAndVariables\RefactorSpecialNumbers\bin\Debug\netcoreapp2.2\RefactorSpecialNumbers.runtimeconfig.dev.json
+D:\ProblemSolving\DataTypesAndVariables\RefactorSpecialNumbers\bin\Debug\netcoreapp2.2\RefactorSpecialNumbers.dll
+D:\ProblemSolving\DataTypesAndVariables\RefactorSpecialNumbers\bin\Debug\netcoreapp2.2\RefactorSpecialNumbers.pdb
+D:\ProblemSolving\DataTypesAndVariables\RefactorSpecialNumbers\obj\Debug\netcoreapp2.2\RefactorSpecialNumbers.csproj.CoreCompileInputs.cache
+D:\ProblemSolving\DataTypesAndVariables\RefactorSpecialNumbers\obj\Debug\netcoreapp2.2\RefactorSpecialNumbers.AssemblyInfoInputs.cache
+D:\ProblemSolving\DataTypesAndVariables\RefactorSpecialNumbers\obj\Debug\netcoreapp2.2\RefactorSpecialNumbers.AssemblyInfo.cs
+D:\ProblemSolving\DataTypesAndVariables\RefactorSpecialNumbers\obj\Debug\netcoreapp2.2\RefactorSpecialNumbers.dll
+D:\ProblemSolving\DataTypesAndVariables\RefactorSpecialNumbers\obj\Debug\netcoreapp2.2\RefactorSpecialNumbers.pdb
