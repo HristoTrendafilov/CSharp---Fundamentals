@@ -1,0 +1,10 @@
+E:\Hristo\ProblemSolving\BasicSyntaxExercise\TriangleOfNumbers\bin\Debug\netcoreapp3.0\TriangleOfNumbers.exe
+E:\Hristo\ProblemSolving\BasicSyntaxExercise\TriangleOfNumbers\bin\Debug\netcoreapp3.0\TriangleOfNumbers.deps.json
+E:\Hristo\ProblemSolving\BasicSyntaxExercise\TriangleOfNumbers\bin\Debug\netcoreapp3.0\TriangleOfNumbers.runtimeconfig.json
+E:\Hristo\ProblemSolving\BasicSyntaxExercise\TriangleOfNumbers\bin\Debug\netcoreapp3.0\TriangleOfNumbers.runtimeconfig.dev.json
+E:\Hristo\ProblemSolving\BasicSyntaxExercise\TriangleOfNumbers\bin\Debug\netcoreapp3.0\TriangleOfNumbers.dll
+E:\Hristo\ProblemSolving\BasicSyntaxExercise\TriangleOfNumbers\bin\Debug\netcoreapp3.0\TriangleOfNumbers.pdb
+E:\Hristo\ProblemSolving\BasicSyntaxExercise\TriangleOfNumbers\obj\Debug\netcoreapp3.0\TriangleOfNumbers.AssemblyInfoInputs.cache
+E:\Hristo\ProblemSolving\BasicSyntaxExercise\TriangleOfNumbers\obj\Debug\netcoreapp3.0\TriangleOfNumbers.AssemblyInfo.cs
+E:\Hristo\ProblemSolving\BasicSyntaxExercise\TriangleOfNumbers\obj\Debug\netcoreapp3.0\TriangleOfNumbers.dll
+E:\Hristo\ProblemSolving\BasicSyntaxExercise\TriangleOfNumbers\obj\Debug\netcoreapp3.0\TriangleOfNumbers.pdb

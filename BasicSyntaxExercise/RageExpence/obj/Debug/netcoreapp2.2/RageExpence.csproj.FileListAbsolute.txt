@@ -1,0 +1,11 @@
+D:\ProblemSolving\Solution1\RageExpence\bin\Debug\netcoreapp2.2\RageExpence.deps.json
+D:\ProblemSolving\Solution1\RageExpence\bin\Debug\netcoreapp2.2\RageExpence.runtimeconfig.json
+D:\ProblemSolving\Solution1\RageExpence\bin\Debug\netcoreapp2.2\RageExpence.runtimeconfig.dev.json
+D:\ProblemSolving\Solution1\RageExpence\bin\Debug\netcoreapp2.2\RageExpence.dll
+D:\ProblemSolving\Solution1\RageExpence\bin\Debug\netcoreapp2.2\RageExpence.pdb
+D:\ProblemSolving\Solution1\RageExpence\obj\Debug\netcoreapp2.2\RageExpence.csproj.CoreCompileInputs.cache
+D:\ProblemSolving\Solution1\RageExpence\obj\Debug\netcoreapp2.2\RageExpence.AssemblyInfoInputs.cache
+D:\ProblemSolving\Solution1\RageExpence\obj\Debug\netcoreapp2.2\RageExpence.AssemblyInfo.cs
+D:\ProblemSolving\Solution1\RageExpence\obj\Debug\netcoreapp2.2\RageExpence.dll
+D:\ProblemSolving\Solution1\RageExpence\obj\Debug\netcoreapp2.2\RageExpence.pdb
+D:\ProblemSolving\Solution1\RageExpence\obj\Debug\netcoreapp2.2\RageExpence.csprojAssemblyReference.cache

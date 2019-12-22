@@ -1,0 +1,10 @@
+D:\ProblemSolving\Solution1\SortNumbers\bin\Debug\netcoreapp2.2\SortNumbers.deps.json
+D:\ProblemSolving\Solution1\SortNumbers\bin\Debug\netcoreapp2.2\SortNumbers.runtimeconfig.json
+D:\ProblemSolving\Solution1\SortNumbers\bin\Debug\netcoreapp2.2\SortNumbers.runtimeconfig.dev.json
+D:\ProblemSolving\Solution1\SortNumbers\bin\Debug\netcoreapp2.2\SortNumbers.dll
+D:\ProblemSolving\Solution1\SortNumbers\bin\Debug\netcoreapp2.2\SortNumbers.pdb
+D:\ProblemSolving\Solution1\SortNumbers\obj\Debug\netcoreapp2.2\SortNumbers.csproj.CoreCompileInputs.cache
+D:\ProblemSolving\Solution1\SortNumbers\obj\Debug\netcoreapp2.2\SortNumbers.AssemblyInfoInputs.cache
+D:\ProblemSolving\Solution1\SortNumbers\obj\Debug\netcoreapp2.2\SortNumbers.AssemblyInfo.cs
+D:\ProblemSolving\Solution1\SortNumbers\obj\Debug\netcoreapp2.2\SortNumbers.dll
+D:\ProblemSolving\Solution1\SortNumbers\obj\Debug\netcoreapp2.2\SortNumbers.pdb
