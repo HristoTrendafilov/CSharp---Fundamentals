@@ -1,0 +1,10 @@
+D:\ProblemSolving\BasicSyntaxLab\Theatre Promotion\bin\Debug\netcoreapp2.2\Theatre Promotion.deps.json
+D:\ProblemSolving\BasicSyntaxLab\Theatre Promotion\bin\Debug\netcoreapp2.2\Theatre Promotion.runtimeconfig.json
+D:\ProblemSolving\BasicSyntaxLab\Theatre Promotion\bin\Debug\netcoreapp2.2\Theatre Promotion.runtimeconfig.dev.json
+D:\ProblemSolving\BasicSyntaxLab\Theatre Promotion\bin\Debug\netcoreapp2.2\Theatre Promotion.dll
+D:\ProblemSolving\BasicSyntaxLab\Theatre Promotion\bin\Debug\netcoreapp2.2\Theatre Promotion.pdb
+D:\ProblemSolving\BasicSyntaxLab\Theatre Promotion\obj\Debug\netcoreapp2.2\Theatre Promotion.csproj.CoreCompileInputs.cache
+D:\ProblemSolving\BasicSyntaxLab\Theatre Promotion\obj\Debug\netcoreapp2.2\Theatre Promotion.AssemblyInfoInputs.cache
+D:\ProblemSolving\BasicSyntaxLab\Theatre Promotion\obj\Debug\netcoreapp2.2\Theatre Promotion.AssemblyInfo.cs
+D:\ProblemSolving\BasicSyntaxLab\Theatre Promotion\obj\Debug\netcoreapp2.2\Theatre Promotion.dll
+D:\ProblemSolving\BasicSyntaxLab\Theatre Promotion\obj\Debug\netcoreapp2.2\Theatre Promotion.pdb
