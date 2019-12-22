@@ -1,0 +1,11 @@
+D:\ProblemSolving\DataTypesAndVariablesExercise\TriplesofLatinLetters\bin\Debug\netcoreapp2.2\TriplesofLatinLetters.deps.json
+D:\ProblemSolving\DataTypesAndVariablesExercise\TriplesofLatinLetters\bin\Debug\netcoreapp2.2\TriplesofLatinLetters.runtimeconfig.json
+D:\ProblemSolving\DataTypesAndVariablesExercise\TriplesofLatinLetters\bin\Debug\netcoreapp2.2\TriplesofLatinLetters.runtimeconfig.dev.json
+D:\ProblemSolving\DataTypesAndVariablesExercise\TriplesofLatinLetters\bin\Debug\netcoreapp2.2\TriplesofLatinLetters.dll
+D:\ProblemSolving\DataTypesAndVariablesExercise\TriplesofLatinLetters\bin\Debug\netcoreapp2.2\TriplesofLatinLetters.pdb
+D:\ProblemSolving\DataTypesAndVariablesExercise\TriplesofLatinLetters\obj\Debug\netcoreapp2.2\TriplesofLatinLetters.csproj.CoreCompileInputs.cache
+D:\ProblemSolving\DataTypesAndVariablesExercise\TriplesofLatinLetters\obj\Debug\netcoreapp2.2\TriplesofLatinLetters.AssemblyInfoInputs.cache
+D:\ProblemSolving\DataTypesAndVariablesExercise\TriplesofLatinLetters\obj\Debug\netcoreapp2.2\TriplesofLatinLetters.AssemblyInfo.cs
+D:\ProblemSolving\DataTypesAndVariablesExercise\TriplesofLatinLetters\obj\Debug\netcoreapp2.2\TriplesofLatinLetters.dll
+D:\ProblemSolving\DataTypesAndVariablesExercise\TriplesofLatinLetters\obj\Debug\netcoreapp2.2\TriplesofLatinLetters.pdb
+D:\ProblemSolving\DataTypesAndVariablesExercise\TriplesofLatinLetters\obj\Debug\netcoreapp2.2\TriplesofLatinLetters.csprojAssemblyReference.cache

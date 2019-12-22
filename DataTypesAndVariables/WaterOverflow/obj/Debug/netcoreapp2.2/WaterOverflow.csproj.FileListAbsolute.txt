@@ -1,0 +1,10 @@
+D:\ProblemSolving\DataTypesAndVariablesExercise\WaterOverflow\bin\Debug\netcoreapp2.2\WaterOverflow.deps.json
+D:\ProblemSolving\DataTypesAndVariablesExercise\WaterOverflow\bin\Debug\netcoreapp2.2\WaterOverflow.runtimeconfig.json
+D:\ProblemSolving\DataTypesAndVariablesExercise\WaterOverflow\bin\Debug\netcoreapp2.2\WaterOverflow.runtimeconfig.dev.json
+D:\ProblemSolving\DataTypesAndVariablesExercise\WaterOverflow\bin\Debug\netcoreapp2.2\WaterOverflow.dll
+D:\ProblemSolving\DataTypesAndVariablesExercise\WaterOverflow\bin\Debug\netcoreapp2.2\WaterOverflow.pdb
+D:\ProblemSolving\DataTypesAndVariablesExercise\WaterOverflow\obj\Debug\netcoreapp2.2\WaterOverflow.csproj.CoreCompileInputs.cache
+D:\ProblemSolving\DataTypesAndVariablesExercise\WaterOverflow\obj\Debug\netcoreapp2.2\WaterOverflow.AssemblyInfoInputs.cache
+D:\ProblemSolving\DataTypesAndVariablesExercise\WaterOverflow\obj\Debug\netcoreapp2.2\WaterOverflow.AssemblyInfo.cs
+D:\ProblemSolving\DataTypesAndVariablesExercise\WaterOverflow\obj\Debug\netcoreapp2.2\WaterOverflow.dll
+D:\ProblemSolving\DataTypesAndVariablesExercise\WaterOverflow\obj\Debug\netcoreapp2.2\WaterOverflow.pdb

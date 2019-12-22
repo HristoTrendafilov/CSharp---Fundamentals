@@ -1,0 +1,11 @@
+D:\ProblemSolving\DataTypesAndVariablesExercise\SumDigits\bin\Debug\netcoreapp2.2\SumDigits.deps.json
+D:\ProblemSolving\DataTypesAndVariablesExercise\SumDigits\bin\Debug\netcoreapp2.2\SumDigits.runtimeconfig.json
+D:\ProblemSolving\DataTypesAndVariablesExercise\SumDigits\bin\Debug\netcoreapp2.2\SumDigits.runtimeconfig.dev.json
+D:\ProblemSolving\DataTypesAndVariablesExercise\SumDigits\bin\Debug\netcoreapp2.2\SumDigits.dll
+D:\ProblemSolving\DataTypesAndVariablesExercise\SumDigits\bin\Debug\netcoreapp2.2\SumDigits.pdb
+D:\ProblemSolving\DataTypesAndVariablesExercise\SumDigits\obj\Debug\netcoreapp2.2\SumDigits.csprojAssemblyReference.cache
+D:\ProblemSolving\DataTypesAndVariablesExercise\SumDigits\obj\Debug\netcoreapp2.2\SumDigits.csproj.CoreCompileInputs.cache
+D:\ProblemSolving\DataTypesAndVariablesExercise\SumDigits\obj\Debug\netcoreapp2.2\SumDigits.AssemblyInfoInputs.cache
+D:\ProblemSolving\DataTypesAndVariablesExercise\SumDigits\obj\Debug\netcoreapp2.2\SumDigits.AssemblyInfo.cs
+D:\ProblemSolving\DataTypesAndVariablesExercise\SumDigits\obj\Debug\netcoreapp2.2\SumDigits.dll
+D:\ProblemSolving\DataTypesAndVariablesExercise\SumDigits\obj\Debug\netcoreapp2.2\SumDigits.pdb

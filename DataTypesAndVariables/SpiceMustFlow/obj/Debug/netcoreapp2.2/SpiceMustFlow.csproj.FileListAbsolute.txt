@@ -1,0 +1,11 @@
+D:\ProblemSolving\DataTypesAndVariablesExercise\SpiceMustFlow\bin\Debug\netcoreapp2.2\SpiceMustFlow.deps.json
+D:\ProblemSolving\DataTypesAndVariablesExercise\SpiceMustFlow\bin\Debug\netcoreapp2.2\SpiceMustFlow.runtimeconfig.json
+D:\ProblemSolving\DataTypesAndVariablesExercise\SpiceMustFlow\bin\Debug\netcoreapp2.2\SpiceMustFlow.runtimeconfig.dev.json
+D:\ProblemSolving\DataTypesAndVariablesExercise\SpiceMustFlow\bin\Debug\netcoreapp2.2\SpiceMustFlow.dll
+D:\ProblemSolving\DataTypesAndVariablesExercise\SpiceMustFlow\bin\Debug\netcoreapp2.2\SpiceMustFlow.pdb
+D:\ProblemSolving\DataTypesAndVariablesExercise\SpiceMustFlow\obj\Debug\netcoreapp2.2\SpiceMustFlow.csproj.CoreCompileInputs.cache
+D:\ProblemSolving\DataTypesAndVariablesExercise\SpiceMustFlow\obj\Debug\netcoreapp2.2\SpiceMustFlow.AssemblyInfoInputs.cache
+D:\ProblemSolving\DataTypesAndVariablesExercise\SpiceMustFlow\obj\Debug\netcoreapp2.2\SpiceMustFlow.AssemblyInfo.cs
+D:\ProblemSolving\DataTypesAndVariablesExercise\SpiceMustFlow\obj\Debug\netcoreapp2.2\SpiceMustFlow.dll
+D:\ProblemSolving\DataTypesAndVariablesExercise\SpiceMustFlow\obj\Debug\netcoreapp2.2\SpiceMustFlow.pdb
+D:\ProblemSolving\DataTypesAndVariablesExercise\SpiceMustFlow\obj\Debug\netcoreapp2.2\SpiceMustFlow.csprojAssemblyReference.cache
