@@ -1,0 +1,10 @@
+D:\ProblemSolving\DataTypesAndVariablesExercise\BeerKegs\bin\Debug\netcoreapp2.2\BeerKegs.deps.json
+D:\ProblemSolving\DataTypesAndVariablesExercise\BeerKegs\bin\Debug\netcoreapp2.2\BeerKegs.runtimeconfig.json
+D:\ProblemSolving\DataTypesAndVariablesExercise\BeerKegs\bin\Debug\netcoreapp2.2\BeerKegs.runtimeconfig.dev.json
+D:\ProblemSolving\DataTypesAndVariablesExercise\BeerKegs\bin\Debug\netcoreapp2.2\BeerKegs.dll
+D:\ProblemSolving\DataTypesAndVariablesExercise\BeerKegs\bin\Debug\netcoreapp2.2\BeerKegs.pdb
+D:\ProblemSolving\DataTypesAndVariablesExercise\BeerKegs\obj\Debug\netcoreapp2.2\BeerKegs.csproj.CoreCompileInputs.cache
+D:\ProblemSolving\DataTypesAndVariablesExercise\BeerKegs\obj\Debug\netcoreapp2.2\BeerKegs.AssemblyInfoInputs.cache
+D:\ProblemSolving\DataTypesAndVariablesExercise\BeerKegs\obj\Debug\netcoreapp2.2\BeerKegs.AssemblyInfo.cs
+D:\ProblemSolving\DataTypesAndVariablesExercise\BeerKegs\obj\Debug\netcoreapp2.2\BeerKegs.dll
+D:\ProblemSolving\DataTypesAndVariablesExercise\BeerKegs\obj\Debug\netcoreapp2.2\BeerKegs.pdb

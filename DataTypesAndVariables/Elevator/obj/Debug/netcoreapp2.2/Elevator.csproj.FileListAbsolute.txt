@@ -1,0 +1,11 @@
+D:\ProblemSolving\DataTypesAndVariablesExercise\Elevator\bin\Debug\netcoreapp2.2\Elevator.deps.json
+D:\ProblemSolving\DataTypesAndVariablesExercise\Elevator\bin\Debug\netcoreapp2.2\Elevator.runtimeconfig.json
+D:\ProblemSolving\DataTypesAndVariablesExercise\Elevator\bin\Debug\netcoreapp2.2\Elevator.runtimeconfig.dev.json
+D:\ProblemSolving\DataTypesAndVariablesExercise\Elevator\bin\Debug\netcoreapp2.2\Elevator.dll
+D:\ProblemSolving\DataTypesAndVariablesExercise\Elevator\bin\Debug\netcoreapp2.2\Elevator.pdb
+D:\ProblemSolving\DataTypesAndVariablesExercise\Elevator\obj\Debug\netcoreapp2.2\Elevator.csproj.CoreCompileInputs.cache
+D:\ProblemSolving\DataTypesAndVariablesExercise\Elevator\obj\Debug\netcoreapp2.2\Elevator.AssemblyInfoInputs.cache
+D:\ProblemSolving\DataTypesAndVariablesExercise\Elevator\obj\Debug\netcoreapp2.2\Elevator.AssemblyInfo.cs
+D:\ProblemSolving\DataTypesAndVariablesExercise\Elevator\obj\Debug\netcoreapp2.2\Elevator.dll
+D:\ProblemSolving\DataTypesAndVariablesExercise\Elevator\obj\Debug\netcoreapp2.2\Elevator.pdb
+D:\ProblemSolving\DataTypesAndVariablesExercise\Elevator\obj\Debug\netcoreapp2.2\Elevator.csprojAssemblyReference.cache

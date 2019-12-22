@@ -1,0 +1,11 @@
+D:\ProblemSolving\DataTypesAndVariablesExercise\IntegerOperations\bin\Debug\netcoreapp2.2\IntegerOperations.deps.json
+D:\ProblemSolving\DataTypesAndVariablesExercise\IntegerOperations\bin\Debug\netcoreapp2.2\IntegerOperations.runtimeconfig.json
+D:\ProblemSolving\DataTypesAndVariablesExercise\IntegerOperations\bin\Debug\netcoreapp2.2\IntegerOperations.runtimeconfig.dev.json
+D:\ProblemSolving\DataTypesAndVariablesExercise\IntegerOperations\bin\Debug\netcoreapp2.2\IntegerOperations.dll
+D:\ProblemSolving\DataTypesAndVariablesExercise\IntegerOperations\bin\Debug\netcoreapp2.2\IntegerOperations.pdb
+D:\ProblemSolving\DataTypesAndVariablesExercise\IntegerOperations\obj\Debug\netcoreapp2.2\IntegerOperations.csprojAssemblyReference.cache
+D:\ProblemSolving\DataTypesAndVariablesExercise\IntegerOperations\obj\Debug\netcoreapp2.2\IntegerOperations.csproj.CoreCompileInputs.cache
+D:\ProblemSolving\DataTypesAndVariablesExercise\IntegerOperations\obj\Debug\netcoreapp2.2\IntegerOperations.AssemblyInfoInputs.cache
+D:\ProblemSolving\DataTypesAndVariablesExercise\IntegerOperations\obj\Debug\netcoreapp2.2\IntegerOperations.AssemblyInfo.cs
+D:\ProblemSolving\DataTypesAndVariablesExercise\IntegerOperations\obj\Debug\netcoreapp2.2\IntegerOperations.dll
+D:\ProblemSolving\DataTypesAndVariablesExercise\IntegerOperations\obj\Debug\netcoreapp2.2\IntegerOperations.pdb
