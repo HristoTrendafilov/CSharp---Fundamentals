@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29311.281
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicStackOperations", "BasicStackOperations\BasicStackOperations.csproj", "{FBDF0B28-32D6-4FA5-8DD5-E4C1298C9294}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicQueueOperations", "BasicQueueOperations\BasicQueueOperations.csproj", "{CA42D83E-5DAC-4915-AB53-31BB530A25F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumandMinimumElement", "MaximumandMinimumElement\MaximumandMinimumElement.csproj", "{2C1040FB-0A0F-45B1-A557-9CE7471420F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastFood", "FastFood\FastFood.csproj", "{5E4BBF1C-6E2A-4771-975A-30924BCD91CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FashionBoutique", "FashionBoutique\FashionBoutique.csproj", "{7CC83F12-8228-4964-9F61-EDBD1CCDEE06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SongsQueue", "SongsQueue\SongsQueue.csproj", "{65D00B80-923A-459D-8D43-D2A924DD463A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TruckTour", "TruckTour\TruckTour.csproj", "{F04DB984-0858-4914-AAFA-A3E1468B2ADE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBDF0B28-32D6-4FA5-8DD5-E4C1298C9294}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBDF0B28-32D6-4FA5-8DD5-E4C1298C9294}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBDF0B28-32D6-4FA5-8DD5-E4C1298C9294}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBDF0B28-32D6-4FA5-8DD5-E4C1298C9294}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA42D83E-5DAC-4915-AB53-31BB530A25F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA42D83E-5DAC-4915-AB53-31BB530A25F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA42D83E-5DAC-4915-AB53-31BB530A25F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA42D83E-5DAC-4915-AB53-31BB530A25F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C1040FB-0A0F-45B1-A557-9CE7471420F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C1040FB-0A0F-45B1-A557-9CE7471420F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C1040FB-0A0F-45B1-A557-9CE7471420F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C1040FB-0A0F-45B1-A557-9CE7471420F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E4BBF1C-6E2A-4771-975A-30924BCD91CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E4BBF1C-6E2A-4771-975A-30924BCD91CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E4BBF1C-6E2A-4771-975A-30924BCD91CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E4BBF1C-6E2A-4771-975A-30924BCD91CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CC83F12-8228-4964-9F61-EDBD1CCDEE06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CC83F12-8228-4964-9F61-EDBD1CCDEE06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CC83F12-8228-4964-9F61-EDBD1CCDEE06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CC83F12-8228-4964-9F61-EDBD1CCDEE06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65D00B80-923A-459D-8D43-D2A924DD463A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65D00B80-923A-459D-8D43-D2A924DD463A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65D00B80-923A-459D-8D43-D2A924DD463A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65D00B80-923A-459D-8D43-D2A924DD463A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F04DB984-0858-4914-AAFA-A3E1468B2ADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F04DB984-0858-4914-AAFA-A3E1468B2ADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F04DB984-0858-4914-AAFA-A3E1468B2ADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F04DB984-0858-4914-AAFA-A3E1468B2ADE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {627D01A1-05B2-4AE6-BACB-08D4F9569E3B}
+	EndGlobalSection
+EndGlobal
